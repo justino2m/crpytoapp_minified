@@ -1,0 +1,2 @@
+class SyncAuthError < SyncError
+end

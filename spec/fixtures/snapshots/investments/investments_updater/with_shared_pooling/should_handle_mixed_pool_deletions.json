@@ -1,0 +1,21 @@
+{
+  "BTC": [
+    "2018-01-01 00:00:00 UTC: +10.0, value: 1000.0      Extracted 0.0 worth 0.0",
+    "2018-01-02 00:00:00 UTC: -5.0, value: 500.0, gain: 7500.0      Pool: average_cost_pool",
+    "2018-01-02 05:00:00 UTC: -5.0, value: 500.0, gain: 7500.0      Pool: average_cost_pool",
+    "2018-01-03 00:00:00 UTC: +5.0, value: 10000.0      Extracted 0.0 worth 0.0",
+    "2018-01-04 00:00:00 UTC: +20.0, value: 8000.0      Extracted 0.0 worth 0.0"
+  ],
+  "ETH": [
+    "2017-11-01 00:00:00 UTC: +4.0, value: 40.0      Extracted 0.0 worth 0.0",
+    "2018-01-01 00:00:00 UTC: +3.0, value: 1500.0      Extracted 0.0 worth 0.0",
+    "2018-01-01 01:00:00 UTC: -7.0, value: 1540.0, gain: 1960.0      Pool: average_cost_pool",
+    "2018-01-01 01:00:00 UTC: -3.0, value: 0.0, gain: 1500.0      Subtype: failed",
+    "2018-01-01 10:00:00 UTC: +3.0, value: 3000.0      Extracted 0.0 worth 0.0",
+    "2018-01-02 00:00:00 UTC: +1.0, value: 8000.0      Extracted 0.0 worth 0.0",
+    "2018-01-02 05:00:00 UTC: +4.0, value: 8000.0      Extracted 0.0 worth 0.0",
+    "2018-01-03 00:00:00 UTC: +3.0, value: 2000.0      Extracted 0.0 worth 0.0",
+    "2018-01-04 00:00:00 UTC: -8.0, value: 21000.0, gain: -14600.0      Pool: average_cost_pool",
+    "2018-01-04 00:00:00 UTC: -2.0, value: 0.0, gain: 1600.0      Subtype: failed"
+  ]
+}

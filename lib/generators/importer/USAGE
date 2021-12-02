@@ -1,0 +1,10 @@
+Description:
+    This creates the api, importer and spec files for new importers.
+
+Example:
+    rails generate importer my_exchange api_key api_secret
+
+    This will create:
+        app/api/my_exchange_api.rb
+        app/importers/my_exchange_importer.rb
+        spec/importers/my_exchange_importer_spec.rb

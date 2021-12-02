@@ -1,0 +1,16 @@
+{
+  "BTC": [
+    "2018-01-01 00:00:00 UTC: +1.0, value: 30.0      Extracted 1.0 worth 30.0",
+    "2018-01-03 00:00:00 UTC: 0.0, value: 0.0, gain: -1000.0      Subtype: external",
+    "2018-01-03 00:00:00 UTC: -0.5, value: 15.0, gain: 985.0      From lot of 1.0 on 2018-01-01 00:00:00 UTC",
+    "2018-01-03 01:00:00 UTC: 0.0, value: 0.0, gain: 1000.0      Subtype: external",
+    "2018-01-03 01:00:00 UTC: +0.5, value: 1000.0      Extracted 0.5 worth 1000.0",
+    "2018-01-04 00:00:00 UTC: -0.5, value: 1000.0, gain: -500.0      From lot of 0.5 on 2018-01-03 01:00:00 UTC",
+    "2018-01-04 00:00:00 UTC: -0.5, value: 15.0, gain: 485.0      From lot of 1.0 on 2018-01-01 00:00:00 UTC",
+    "2018-01-04 00:00:00 UTC: -0.5, value: 0.0, gain: 20.0      Subtype: failed"
+  ],
+  "USD": [
+    "2018-01-02 00:00:00 UTC: 0.0, value: 0.0, gain: 300.0      Subtype: external",
+    "2018-01-02 01:00:00 UTC: 0.0, value: 0.0, gain: -300.0      Subtype: external"
+  ]
+}

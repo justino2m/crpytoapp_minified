@@ -1,0 +1,19 @@
+{
+  "BTC": [
+    "2017-12-31 00:00:00 UTC: +1.0, value: 100.0      Extracted 0.0 worth 0.0",
+    "2018-01-01 00:00:00 UTC: +4.0, value: 4000.0      Extracted 4.0 worth 4000.0",
+    "2018-01-01 00:00:00 UTC: +3.0, value: 30.0      Extracted 3.0 worth 30.0",
+    "2018-01-01 00:00:00 UTC: +3.0, value: 330.0      Extracted 2.0 worth 220.0",
+    "2018-01-01 00:00:00 UTC: -4.0, value: 4000.0, gain: -3200.0      From lot of 4.0 on 2018-01-01 00:00:00 UTC",
+    "2018-01-01 00:00:00 UTC: -1.0, value: 10.0, gain: 190.0      From lot of 3.0 on 2018-01-01 00:00:00 UTC",
+    "2018-01-01 00:00:00 UTC: -1.0, value: 10.0, gain: 40.0      From lot of 3.0 on 2018-01-01 00:00:00 UTC",
+    "2018-01-02 00:00:00 UTC: +2.0, value: 22.0      Extracted 2.0 worth 22.0",
+    "2018-01-02 00:00:00 UTC: -2.0, value: 22.0, gain: 0.0      From lot of 2.0 on 2018-01-02 00:00:00 UTC, Subtype: own_transfer",
+    "2018-01-02 00:00:00 UTC: -1.0, value: 10.0, gain: 0.0      From lot of 3.0 on 2018-01-01 00:00:00 UTC, Subtype: own_transfer",
+    "2018-01-02 00:00:00 UTC: -2.0, value: 220.0, gain: 0.0      From lot of 3.0 on 2018-01-01 00:00:00 UTC, Subtype: own_transfer"
+  ],
+  "ETH": [
+    "2018-01-02 00:00:00 UTC: +500.0, value: 252.0      Extracted 250.0 worth 126.0",
+    "2018-01-02 00:00:00 UTC: -250.0, value: 126.0, gain: 374.0      From lot of 500.0 on 2018-01-02 00:00:00 UTC"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "BTC": [
+    "2018-01-01 00:00:00 UTC: +5.0, value: 1000.0      Extracted 5.0 worth 1000.0",
+    "2018-01-02 00:00:00 UTC: +10.0, value: 1000.0      Extracted 7.0 worth 700.0",
+    "2018-01-03 00:00:00 UTC: -5.0, value: 1000.0, gain: 0.0      From lot of 5.0 on 2018-01-01 00:00:00 UTC, Subtype: own_transfer",
+    "2018-01-03 00:00:00 UTC: -7.0, value: 700.0, gain: 0.0      From lot of 10.0 on 2018-01-02 00:00:00 UTC, Subtype: own_transfer",
+    "2018-01-03 00:00:00 UTC: +12.0, value: 1700.0      Extracted 0.0 worth 0.0"
+  ]
+}

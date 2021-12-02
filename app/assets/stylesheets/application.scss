@@ -1,0 +1,50 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require font-awesome
+ *= require_tree .
+ *= require_self
+ */
+
+.highlighted-stats {
+  li:not(:first-child) {
+    border-top: 0 none;
+  }
+  li:not(:last-child) {
+    border-bottom: 0 none;
+  }
+}
+
+.navbar {
+  padding: 1rem 1.5rem !important;
+  margin-bottom: 1rem !important;
+
+  .nav-item {
+    &.active {
+      .nav-link {
+        color: #007bff !important;
+      }
+    }
+
+    .nav-link {
+      padding-right: 1rem !important;
+      padding-left: 1rem !important;
+    }
+  }
+
+
+  .navbar-brand {
+    padding-right: 2rem;
+    font-size: 1.5rem;
+    color: #007bff !important;
+  }
+}

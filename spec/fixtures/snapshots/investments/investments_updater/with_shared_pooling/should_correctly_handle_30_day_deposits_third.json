@@ -1,0 +1,8 @@
+{
+  "BTC": [
+    "2018-01-01 00:00:00 UTC: +10.0, value: 1000.0      Extracted 0.0 worth 0.0",
+    "2018-01-20 04:00:00 UTC: +5.0, value: 10000.0      Extracted 0.0 worth 0.0",
+    "2018-01-20 05:00:00 UTC: -8.0, value: 5866.6666666667, gain: 2133.3333333333      Pool: average_cost_pool",
+    "2018-02-05 08:00:00 UTC: +2.0, value: 6000.0      Extracted 0.0 worth 0.0"
+  ]
+}

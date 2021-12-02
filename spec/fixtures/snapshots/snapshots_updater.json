@@ -1,0 +1,374 @@
+[
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "40.0",
+    "invested": "20.0",
+    "gains": "0.0",
+    "worths": {
+    },
+    "date": "2018-01-01T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "40.0",
+    "invested": "20.0",
+    "gains": "0.0",
+    "worths": {
+    },
+    "date": "2018-01-02T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "40.0",
+    "invested": "20.0",
+    "gains": "0.0",
+    "worths": {
+    },
+    "date": "2018-01-03T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "110.0",
+    "invested": "20.0",
+    "gains": "0.0",
+    "worths": {
+    },
+    "date": "2018-01-04T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "660.0",
+    "invested": "1020.0",
+    "gains": "0.0",
+    "worths": {
+    },
+    "date": "2018-01-05T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "660.0",
+    "invested": "1020.0",
+    "gains": "0.0",
+    "worths": {
+    },
+    "date": "2018-01-06T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "660.0",
+    "invested": "1020.0",
+    "gains": "0.0",
+    "worths": {
+    },
+    "date": "2018-01-07T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "660.0",
+    "invested": "1020.0",
+    "gains": "0.0",
+    "worths": {
+    },
+    "date": "2018-01-08T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "660.0",
+    "invested": "1020.0",
+    "gains": "0.0",
+    "worths": {
+    },
+    "date": "2018-01-09T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "1760.0",
+    "invested": "21020.0",
+    "gains": "0.0",
+    "worths": {
+    },
+    "date": "2018-01-10T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "1840.0",
+    "invested": "21020.0",
+    "gains": "0.0",
+    "worths": {
+    },
+    "date": "2018-01-11T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "1840.0",
+    "invested": "21020.0",
+    "gains": "0.0",
+    "worths": {
+    },
+    "date": "2018-01-12T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "1840.0",
+    "invested": "21020.0",
+    "gains": "0.0",
+    "worths": {
+    },
+    "date": "2018-01-13T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "1840.0",
+    "invested": "21020.0",
+    "gains": "0.0",
+    "worths": {
+    },
+    "date": "2018-01-14T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "1765.0",
+    "invested": "20610.0",
+    "gains": "590.0",
+    "worths": {
+    },
+    "date": "2018-01-15T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "1765.0",
+    "invested": "20610.0",
+    "gains": "590.0",
+    "worths": {
+    },
+    "date": "2018-01-16T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "1611.0",
+    "invested": "20610.0",
+    "gains": "590.0",
+    "worths": {
+    },
+    "date": "2018-01-17T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "2411.0",
+    "invested": "20610.0",
+    "gains": "590.0",
+    "worths": {
+    },
+    "date": "2018-01-18T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "2411.0",
+    "invested": "20610.0",
+    "gains": "590.0",
+    "worths": {
+    },
+    "date": "2018-01-19T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "911.0",
+    "invested": "16100.0",
+    "gains": "-2920.0",
+    "worths": {
+    },
+    "date": "2018-01-20T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "911.0",
+    "invested": "16100.0",
+    "gains": "-2920.0",
+    "worths": {
+    },
+    "date": "2018-01-21T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "911.0",
+    "invested": "16100.0",
+    "gains": "-2920.0",
+    "worths": {
+    },
+    "date": "2018-01-22T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "911.0",
+    "invested": "16100.0",
+    "gains": "-2920.0",
+    "worths": {
+    },
+    "date": "2018-01-23T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "911.0",
+    "invested": "16100.0",
+    "gains": "-2920.0",
+    "worths": {
+    },
+    "date": "2018-01-24T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "75906.0",
+    "invested": "16100.0",
+    "gains": "-2920.0",
+    "worths": {
+    },
+    "date": "2018-01-25T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "5066.0",
+    "invested": "16100.0",
+    "gains": "-2920.0",
+    "worths": {
+    },
+    "date": "2018-01-26T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "5066.0",
+    "invested": "16100.0",
+    "gains": "-2920.0",
+    "worths": {
+    },
+    "date": "2018-01-27T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "5066.0",
+    "invested": "16100.0",
+    "gains": "-2920.0",
+    "worths": {
+    },
+    "date": "2018-01-28T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "5066.0",
+    "invested": "16100.0",
+    "gains": "-2920.0",
+    "worths": {
+    },
+    "date": "2018-01-29T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "2566.0",
+    "invested": "8099.2",
+    "gains": "-10420.8",
+    "worths": {
+    },
+    "date": "2018-01-30T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  },
+  {
+    "id": "X",
+    "user_id": "X",
+    "total_worth": "2566.0",
+    "invested": "8099.2",
+    "gains": "-10420.8",
+    "worths": {
+    },
+    "date": "2018-01-31T23:59:59.000Z",
+    "created_at": "X",
+    "updated_at": "X"
+  }
+]

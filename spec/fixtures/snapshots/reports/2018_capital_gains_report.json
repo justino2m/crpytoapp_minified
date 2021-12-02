@@ -1,0 +1,41 @@
+[
+  [
+    "Capital gains report 2018"
+  ],
+  [
+
+  ],
+  [
+    "Date Sold",
+    "Date Acquired",
+    "Asset",
+    "Amount",
+    "Cost (USD)",
+    "Proceeds (USD)",
+    "Gain / loss",
+    "Notes",
+    "Holding period"
+  ],
+  [
+    "01/01/2018 01:00",
+    "01/01/2018 01:00",
+    "BTC",
+    "1.00000000",
+    "1.00",
+    "0.10",
+    "-0.90",
+    "",
+    "Short term"
+  ],
+  [
+    "01/01/2018 02:00",
+    "01/01/2018 01:10",
+    "ETH",
+    "1.00000000",
+    "1.00",
+    "1.00",
+    "0.00",
+    "",
+    "Short term"
+  ]
+]

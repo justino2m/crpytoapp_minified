@@ -1,0 +1,3 @@
+class QuitWorkerSignal < StandardError
+
+end
